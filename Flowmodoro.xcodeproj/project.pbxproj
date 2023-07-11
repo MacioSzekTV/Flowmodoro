@@ -14,6 +14,15 @@
 		9E24661F2A5AE2AF00E5508F /* FlowmodoroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E24661E2A5AE2AF00E5508F /* FlowmodoroTests.swift */; };
 		9E2466292A5AE2AF00E5508F /* FlowmodoroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2466282A5AE2AF00E5508F /* FlowmodoroUITests.swift */; };
 		9E24662B2A5AE2AF00E5508F /* FlowmodoroUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E24662A2A5AE2AF00E5508F /* FlowmodoroUITestsLaunchTests.swift */; };
+		9E452BF52A5CA4880044BEE7 /* icon16x16.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BEF2A5CA4870044BEE7 /* icon16x16.png */; };
+		9E452BF62A5CA4880044BEE7 /* icon512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BF02A5CA4870044BEE7 /* icon512x512.png */; };
+		9E452BF72A5CA4880044BEE7 /* icon1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BF12A5CA4870044BEE7 /* icon1024x1024.png */; };
+		9E452BF82A5CA4880044BEE7 /* icon256x256.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BF22A5CA4870044BEE7 /* icon256x256.png */; };
+		9E452BF92A5CA4880044BEE7 /* icon32x32.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BF32A5CA4870044BEE7 /* icon32x32.png */; };
+		9E452BFA2A5CA4880044BEE7 /* icon128x128.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E452BF42A5CA4870044BEE7 /* icon128x128.png */; };
+		9EB847B42A5B416F004936D0 /* NotoSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EB847B32A5B416F004936D0 /* NotoSans-Regular.ttf */; };
+		9EB847B72A5B51B0004936D0 /* NotoSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EB847B62A5B51B0004936D0 /* NotoSans-BoldItalic.ttf */; };
+		9EC6DBF72A5C5A2300A3608F /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EC6DBF62A5C5A2300A3608F /* Config.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +54,16 @@
 		9E2466242A5AE2AF00E5508F /* FlowmodoroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlowmodoroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E2466282A5AE2AF00E5508F /* FlowmodoroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowmodoroUITests.swift; sourceTree = "<group>"; };
 		9E24662A2A5AE2AF00E5508F /* FlowmodoroUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowmodoroUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9E452BEF2A5CA4870044BEE7 /* icon16x16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon16x16.png; path = Assets.xcassets/AppIcon.appiconset/icon16x16.png; sourceTree = "<group>"; };
+		9E452BF02A5CA4870044BEE7 /* icon512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon512x512.png; path = Assets.xcassets/AppIcon.appiconset/icon512x512.png; sourceTree = "<group>"; };
+		9E452BF12A5CA4870044BEE7 /* icon1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon1024x1024.png; path = Assets.xcassets/AppIcon.appiconset/icon1024x1024.png; sourceTree = "<group>"; };
+		9E452BF22A5CA4870044BEE7 /* icon256x256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon256x256.png; path = Assets.xcassets/AppIcon.appiconset/icon256x256.png; sourceTree = "<group>"; };
+		9E452BF32A5CA4870044BEE7 /* icon32x32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon32x32.png; path = Assets.xcassets/AppIcon.appiconset/icon32x32.png; sourceTree = "<group>"; };
+		9E452BF42A5CA4870044BEE7 /* icon128x128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon128x128.png; path = Assets.xcassets/AppIcon.appiconset/icon128x128.png; sourceTree = "<group>"; };
+		9EB847B32A5B416F004936D0 /* NotoSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSans-Regular.ttf"; sourceTree = "<group>"; };
+		9EB847B52A5B46B7004936D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9EB847B62A5B51B0004936D0 /* NotoSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		9EC6DBF62A5C5A2300A3608F /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,11 +114,21 @@
 		9E24660B2A5AE2AE00E5508F /* Flowmodoro */ = {
 			isa = PBXGroup;
 			children = (
+				9EB847B52A5B46B7004936D0 /* Info.plist */,
 				9E24660C2A5AE2AE00E5508F /* FlowmodoroApp.swift */,
+				9EB847B32A5B416F004936D0 /* NotoSans-Regular.ttf */,
 				9E24660E2A5AE2AE00E5508F /* ContentView.swift */,
+				9EB847B62A5B51B0004936D0 /* NotoSans-BoldItalic.ttf */,
 				9E2466102A5AE2AF00E5508F /* Assets.xcassets */,
+				9E452BEF2A5CA4870044BEE7 /* icon16x16.png */,
+				9E452BF32A5CA4870044BEE7 /* icon32x32.png */,
+				9E452BF42A5CA4870044BEE7 /* icon128x128.png */,
+				9E452BF22A5CA4870044BEE7 /* icon256x256.png */,
+				9E452BF02A5CA4870044BEE7 /* icon512x512.png */,
+				9E452BF12A5CA4870044BEE7 /* icon1024x1024.png */,
 				9E2466152A5AE2AF00E5508F /* Flowmodoro.entitlements */,
 				9E2466122A5AE2AF00E5508F /* Preview Content */,
+				9EC6DBF62A5C5A2300A3608F /* Config.swift */,
 			);
 			path = Flowmodoro;
 			sourceTree = "<group>";
@@ -233,6 +262,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EB847B72A5B51B0004936D0 /* NotoSans-BoldItalic.ttf in Resources */,
+				9E452BFA2A5CA4880044BEE7 /* icon128x128.png in Resources */,
+				9E452BF92A5CA4880044BEE7 /* icon32x32.png in Resources */,
+				9E452BF62A5CA4880044BEE7 /* icon512x512.png in Resources */,
+				9EB847B42A5B416F004936D0 /* NotoSans-Regular.ttf in Resources */,
+				9E452BF72A5CA4880044BEE7 /* icon1024x1024.png in Resources */,
+				9E452BF52A5CA4880044BEE7 /* icon16x16.png in Resources */,
+				9E452BF82A5CA4880044BEE7 /* icon256x256.png in Resources */,
 				9E2466142A5AE2AF00E5508F /* Preview Assets.xcassets in Resources */,
 				9E2466112A5AE2AF00E5508F /* Assets.xcassets in Resources */,
 			);
@@ -261,6 +298,7 @@
 			files = (
 				9E24660F2A5AE2AE00E5508F /* ContentView.swift in Sources */,
 				9E24660D2A5AE2AE00E5508F /* FlowmodoroApp.swift in Sources */,
+				9EC6DBF72A5C5A2300A3608F /* Config.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,12 +454,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Flowmodoro/Flowmodoro.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Flowmodoro/Preview Content\"";
+				DEVELOPMENT_TEAM = RJLRRQN42L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Flowmodoro/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flowmodoro;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -441,12 +484,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Flowmodoro/Flowmodoro.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Flowmodoro/Preview Content\"";
+				DEVELOPMENT_TEAM = RJLRRQN42L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Flowmodoro/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flowmodoro;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
