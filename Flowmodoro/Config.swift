@@ -161,5 +161,6 @@ class Config: ObservableObject {
         timeML = "00"
         timeElapsed = "00:00:00"
         timer.invalidate()
+        timerB.invalidate()
     }
 }
